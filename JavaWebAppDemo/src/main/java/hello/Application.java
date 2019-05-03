@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class Application {
-	
+	//sample comment to check git commit
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
